@@ -1,5 +1,6 @@
 {
     "name": "marcmacbook/marc-sympony3_1",
+    "description": "Description of project marcSymfony3.",
     "license": "proprietary",
     "type": "project",
     "autoload": {
