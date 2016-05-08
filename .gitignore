@@ -1,0 +1,11 @@
+# Default Symfony gitignore
+/var/cache/
+/app/cache/*
+/app/config/parameters.yml
+/app/config/parameters_dev.yml
+/app/logs/*
+!app/cache/.gitkeep
+!app/logs/.gitkeep
+/build/
+/vendor/
+/bin/
